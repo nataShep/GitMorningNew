@@ -88,7 +88,17 @@ git init
 
 ## Раздел второй - Списки
 
+Список с абзацами:
 
+* Раз абзац. Lorem ipsum dolor sit amet, consectetur
+adipisicing elit.
+* Два абзац. Donec sit amet nisl. Aliquam semper ipsum
+sit amet velit. Suspendisse id sem consectetuer libero
+luctus adipiscing.
+* Три абзац. Ea, quis, alias nobis porro quos laborum
+minus sed fuga odio dolore natus quas cum enim
+necessitatibus magni provident non saepe sequi?
+* Четыре абзац (Четыре пробела в начале или один tab).
 
 
 
